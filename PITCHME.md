@@ -8,7 +8,7 @@ A crash-course overview of how to model the world
 
 ## Philosophy
 
----
++++
 
 ### Why atomistic modelling
 
