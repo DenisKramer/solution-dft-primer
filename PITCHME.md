@@ -1,5 +1,3 @@
-theme : moon
-
 # Atomistic simulations
 
 A crash-course overview of how to model the world
